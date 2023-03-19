@@ -1,3 +1,3 @@
 # Pieterbas Nagengast @Github pages
-<Under construction ;) >
-Check: (https://github.com/pieterbasnagenagst)
+Under construction ;)
+Check: [Github](https://github.com/pieterbasnagenagst)
